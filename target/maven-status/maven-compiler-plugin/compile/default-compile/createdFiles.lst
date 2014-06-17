@@ -1,0 +1,5 @@
+com\sayhi\webservice\ws\SayHiService.class
+com\sayhi\webservice\ws\SayService.class
+com\sayhi\webservice\endpoint\SayPublisher.class
+com\sayhi\webservice\client\SayClient.class
+com\sayhi\controller\SkeletonController.class
